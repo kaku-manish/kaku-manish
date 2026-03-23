@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm KAKU MANISH KUMAR</h1>
-<h3 align="center">student of kl university</h3>
+Hi 👋, I'm KAKU MANISH KUMAR</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaku-manish&label=Profile%20views&color=0e75b6&style=flat" alt="kaku-manish" /> </p>
 
